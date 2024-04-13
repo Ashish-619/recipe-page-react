@@ -1,0 +1,45 @@
+.main {
+  margin: 3%;
+}
+
+.img-size {
+  width: 90vw;
+  border-radius: 10px;
+}
+
+.container {
+  color: brown;
+  width: 90vw;
+  height: 30vh;
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.container h3 {
+  color: hsl(332, 51%, 32%);
+}
+
+span {
+  color: hsl(24, 5%, 18%);
+  font-weight: bold;
+}
+
+h2 {
+  color: hsl(24, 5%, 18%);
+}
+
+.fact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.label {
+  margin-left: 10%;
+}
+
+.value {
+  margin-right: 10%;
+}
